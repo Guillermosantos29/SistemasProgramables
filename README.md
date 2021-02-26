@@ -19,6 +19,6 @@
 
 ### :green_book: Trabajos/tareas​
 
-1. :book: [C1.1 Cuestionario electrónica básica y sus elementos](docs/D1.0_Sensores.md)
+1. :book: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_ElectronicaBasica-y-elementos_GuillermoSantos.md)
   
 
