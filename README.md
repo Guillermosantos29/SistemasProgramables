@@ -1,5 +1,4 @@
 # SistemasProgramables
-tareas/trabajos
 
 <p align="center">
     <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-768x252.png" width=768 height=252>
