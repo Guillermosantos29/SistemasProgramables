@@ -11,7 +11,7 @@ tareas/trabajos
 
 ---
 
-### :pencil: Objetivos
+### :nail_care: Objetivos
 
 + Utilizar con precision la terminología y simbología de microcontroladores e interfaces
 + Acoplar dispositivos de visualización, sensores y actuadores a microcontroladores
@@ -20,19 +20,19 @@ tareas/trabajos
 
 ---
 
-### :necktie: Datos del asesor de la materia
+### :nail_care: Datos del asesor de la materia
 
 * Nombre: Guillermo Leonardo Santos Poblete
 * Carrera: Ingeniería en Sistemas Computacionales
 ---
 
-### :blue_book: Introducción
+### :nail_care: Introducción
 
 Durante esta sección el alumno conocerá los temas que se habrá de tratar durante el desarrollo de la materia así como las características de las actividades, y reglas para entrega de actividades de aprendizaje.​ Por lo que es importante que se familiarice y conozca como se llevara acabo la gestión del curso.
 
 ---
 
-### :books: Trabajos/tareas​
+### :nail_care: Trabajos/tareas​
 
 1. :book: [Sensores](docs/D1.0_Sensores.md)
   
