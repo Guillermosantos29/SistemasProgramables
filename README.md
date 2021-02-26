@@ -19,6 +19,7 @@
 
 ### :green_book: Trabajos/tareas​
 
-1. :book: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_ElectronicaBasica-y-elementos_GuillermoSantos.md)
+1. :book: [C0.1_Integrar-equipos-de-trabajo_GuillermoSantos.md](docs/C0.1_Integrar-equipos-de-trabajo_GuillermoSantos.md)
+2. :book: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_ElectronicaBasica-y-elementos_GuillermoSantos.md)
   
 
