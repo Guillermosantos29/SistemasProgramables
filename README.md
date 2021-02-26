@@ -2,7 +2,7 @@
 tareas/trabajos
 
 <p align="center">
-    <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png" width=250 height=250>
+    <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-768x252.png" width=768 height=252>
 </p>
 
 # Ingeniería en sistemas computaciones, Tecnologías de la información y comunicación, e Informática
