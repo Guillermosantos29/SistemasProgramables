@@ -12,8 +12,9 @@
 
 ### :green_book: Datos del alumno
 
-* Nombre: Guillermo Leonardo Santos Poblete
+* Nombre: Guillermo Leonardo Santos Poblete #17211564
 * Carrera: Ingeniería en Sistemas Computacionales
+* Equipo: Las bichotas :nail_care:
 ---
 
 ### :green_book: Trabajos/tareas​
