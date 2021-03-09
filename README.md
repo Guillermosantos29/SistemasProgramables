@@ -22,6 +22,6 @@
 1. :book: [C0.1_Integrar-equipos-de-trabajo](docs/C0.1_Integrar-equipos-de-trabajo_GuillermoSantos.md)
 2. :book: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_ElectronicaBasica-y-elementos_GuillermoSantos.md)
 3. :book: [C1.2_ElectronicaBasica-circuitos](docs/C1.2_ElectronicaBasica-circuitos_GuillermoSantos.md )
-4. :book: [C1.2_ElectronicaBasica-circuitos](docs/C1.2_ElectronicaBasica-circuitos_GuillermoSantos.md )
+4. :book: [C1.3_Circuito_electrónico_divisor_de_tensión](docs/C1.2_ElectronicaBasica-circuitos_GuillermoSantos.md )
   
 
