@@ -25,5 +25,5 @@
 4. :blue_book: [C1.3_Circuito_electrónico_divisor_de_tensión](docs/C1.3_Circuito-electrónico-divisor-de-tensión_GuillermoSantos.md )
 
 **Equipo**
-1. :red_book:  [A1.2_SensorMedidorLuz_GuillermoSantos](docs/)
+1. :nail_care:  [A1.2_SensorMedidorLuz_GuillermoSantos](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
 
