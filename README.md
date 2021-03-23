@@ -23,7 +23,7 @@
 2. :blue_book: [C1.1 Cuestionario electrónica básica y sus elementos](docs/C1.1_ElectronicaBasica-y-elementos_GuillermoSantos.md)
 3. :blue_book: [C1.2_ElectronicaBasica-circuitos](docs/C1.2_ElectronicaBasica-circuitos_GuillermoSantos.md )
 4. :blue_book: [C1.3_Circuito_electrónico_divisor_de_tensión](docs/C1.3_Circuito-electrónico-divisor-de-tensión_GuillermoSantos.md )
-5. :blue_book: [C1.3_Circuito_electrónico_divisor_de_tensión](docs/C1.4_Acondicionador_señal_amplificador-GuillermoSantos.md )
+5. :blue_book: [C1.4_Acondicionador_señal_amplificador](docs/C1.4_Acondicionador_señal_amplificador-GuillermoSantos.md )
 
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz_GuillermoSantos](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
