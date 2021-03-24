@@ -24,7 +24,7 @@
 3. :blue_book: [C1.2_ElectronicaBasica-circuitos](docs/C1.2_ElectronicaBasica-circuitos_GuillermoSantos.md )
 4. :blue_book: [C1.3_Circuito_electrónico_divisor_de_tensión](docs/C1.3_Circuito-electrónico-divisor-de-tensión_GuillermoSantos.md )
 5. :blue_book: [C1.4_Acondicionador_señal_amplificador](docs/C1.4_Acondicionador_señal_amplificador-GuillermoSantos.md )
-6. :blue_book: [C1.5 _Tipos-De-Sensores](docs/C1.5 _Tipos-De-Sensores_GuillermoSantos.md )
+6. :blue_book: [C1.5_Tipos-De-Sensores](docs/C1.5_Tipos-De-Sensores_GuillermoSantos.md )
 
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz_GuillermoSantos](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
