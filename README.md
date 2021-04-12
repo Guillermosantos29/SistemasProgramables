@@ -27,5 +27,6 @@
 6. :blue_book: [C1.5_Tipos-De-Sensores](docs/C1.5_Tipos-De-Sensores_GuillermoSantos.md )
 
 **Equipo** 
-1. :nail_care:  [A1.2_SensorMedidorLuz_GuillermoSantos](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
+1. :nail_care:  [A1.2_SensorMedidorLuz](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
+2. :nail_care:  [A1.3_SensorEncoderInfrarroFC-03](docs/A1.3_GuillermoSantos_LasBichotas.md)
 
