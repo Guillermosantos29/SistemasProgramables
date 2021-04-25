@@ -29,8 +29,8 @@ UNIDAD 1
 6. :blue_book: [C1.5_Tipos-De-Sensores](docs/C1.5_Tipos-De-Sensores_GuillermoSantos.md )
 UNIDAD 2
 --------
-1. :red_book: [C2.1_ActuadoresClasificacion](docs/C2.1_ActuadoresClasificacion_GuillermoSantos.md)
-2. 
+1. 🍕: [C2.1_ActuadoresClasificacion](docs/C2.1_ActuadoresClasificacion_GuillermoSantos.md)
+
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
 2. :nail_care:  [A1.3_SensorEncoderInfrarroFC-03](docs/A1.3_GuillermoSantos_LasBichotas.md)
