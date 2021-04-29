@@ -32,6 +32,7 @@ UNIDAD 1
 --------
 UNIDAD 2
 1. 🍕 [C2.1_ActuadoresClasificacion](docs/C2.1_ActuadoresClasificacion_GuillermoSantos.md)
+2. 🍕 [C2.2_ActuadoresEléctricos](docs/C2.2_ActuadoresElectricos_GuillermoSantos.md)
 
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
