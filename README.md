@@ -37,4 +37,5 @@ UNIDAD 2
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
 2. :nail_care:  [A1.3_SensorEncoderInfrarroFC-03](docs/A1.3_GuillermoSantos_LasBichotas.md)
+3. :nail_care:  [A2.2_Actuadores](docs/A2.2_Actuadores_GuillermoSantos.md)
 
