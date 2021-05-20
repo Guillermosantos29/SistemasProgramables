@@ -34,6 +34,10 @@ UNIDAD 2
 1. 🍕 [C2.1_ActuadoresClasificacion](docs/C2.1_ActuadoresClasificacion_GuillermoSantos.md)
 2. 🍕 [C2.2_ActuadoresEléctricos](docs/C2.2_ActuadoresElectricos_GuillermoSantos.md)
 
+--------
+UNIDAD 3
+1. 📝:  [C3.1 Arduino IDE Salida Digital](docs/C3.1_GuillermoSantos_LasBichotas.md)
+
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
 2. :nail_care:  [A1.3_SensorEncoderInfrarroFC-03](docs/A1.3_GuillermoSantos_LasBichotas.md)
