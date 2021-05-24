@@ -37,7 +37,7 @@ UNIDAD 2
 --------
 UNIDAD 3
 1. 📝:  [C3.1 Arduino IDE Salida Digital](docs/C3.1_GuillermoSantos_LasBichotas.md) 
-2. 📝:  [C3.1 Arduino IDE Entrada digital](docs/C3.2_GuillermoSantos_LasBichotas.md)
+2. 📝:  [C3.2 Arduino IDE Entrada digital](docs/C3.2_GuillermoSantos_LasBichotas.md)
 
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
