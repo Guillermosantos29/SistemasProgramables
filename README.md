@@ -43,6 +43,8 @@ UNIDAD 3
 **Equipo** 
 1. :nail_care:  [A1.2_SensorMedidorLuz](docs/A1.2_SensorMedidorLuz_GuillermoSantos.md)
 2. :nail_care:  [A1.3_SensorEncoderInfrarroFC-03](docs/A1.3_GuillermoSantos_LasBichotas.md)
-3. :nail_care:  [A2.2_Actuadores](docs/A2.2_Actuadores_GuillermoSantos.md) 
-4. :nail_care:  [A3.1_Circuito sensor de deteccion de objetos](docs/A3.1_GuillermoSantos_Bichotas.md)
+3. :nail_care:  [A1.4 Sensor medidor de temperatura](docs/A1.4_SensorTemperatura_GuillermoSantos.md)
+4. :nail_care:  [A2.1 Investigación sobre actuadores eléctricos ](docs/A2.1_GuillermoSantos_LasBichotas.md)
+5. :nail_care:  [A2.2_Actuadores](docs/A2.2_Actuadores_GuillermoSantos.md) 
+6. :nail_care:  [A3.1_Circuito sensor de deteccion de objetos](docs/A3.1_GuillermoSantos_Bichotas.md)
 
