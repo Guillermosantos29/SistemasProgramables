@@ -47,5 +47,6 @@ UNIDAD 3
 4. :nail_care:  [A2.1 Investigación sobre actuadores eléctricos ](docs/A2.1_GuillermoSantos_LasBichotas.md)
 5. :nail_care:  [A2.2_Actuadores](docs/A2.2_Actuadores_GuillermoSantos.md) 
 6. :nail_care:  [A3.1_Circuito sensor de deteccion de objetos](docs/A3.1_GuillermoSantos_Bichotas.md)
-7. :nail_care:  [A3.2_Circuito y programacion de un sensor de tactor con NodeMCU ESP32](docs/A3.2_GuillermoSantos_Bichotas.md)
+7. :nail_care:  [A3.2_Circuito y programacion de un sensor de tactor con NodeMCU ESP32](docs/A3.2_GuillermoSantos_Bichotas.md) 
+8. :nail_care:  [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](docs/A3.3_GuillermoSantos_Bichotas.md)
 
